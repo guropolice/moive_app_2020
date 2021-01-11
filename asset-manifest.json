@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/moive_app_2020/static/css/main.9b8395a0.chunk.css",
+    "main.js": "/moive_app_2020/static/js/main.c408205e.chunk.js",
+    "main.js.map": "/moive_app_2020/static/js/main.c408205e.chunk.js.map",
+    "runtime-main.js": "/moive_app_2020/static/js/runtime-main.076a10c8.js",
+    "runtime-main.js.map": "/moive_app_2020/static/js/runtime-main.076a10c8.js.map",
+    "static/js/2.01d35ba3.chunk.js": "/moive_app_2020/static/js/2.01d35ba3.chunk.js",
+    "static/js/2.01d35ba3.chunk.js.map": "/moive_app_2020/static/js/2.01d35ba3.chunk.js.map",
+    "index.html": "/moive_app_2020/index.html",
+    "static/css/main.9b8395a0.chunk.css.map": "/moive_app_2020/static/css/main.9b8395a0.chunk.css.map",
+    "static/js/2.01d35ba3.chunk.js.LICENSE.txt": "/moive_app_2020/static/js/2.01d35ba3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.076a10c8.js",
+    "static/js/2.01d35ba3.chunk.js",
+    "static/css/main.9b8395a0.chunk.css",
+    "static/js/main.c408205e.chunk.js"
+  ]
+}
